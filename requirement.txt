@@ -1,6 +1,7 @@
+streamlit
 pandas
 seaborn
 matplotlib
-streamlit
 fpdf
+openpyxl
 
