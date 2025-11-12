@@ -1,5 +1,6 @@
-pandas==1.5.3
-seaborn==0.11.2
-matplotlib==3.7.1
-streamlit==1.17.0
-fpdf==1.7.2
+pandas
+seaborn
+matplotlib
+streamlit
+fpdf
+
